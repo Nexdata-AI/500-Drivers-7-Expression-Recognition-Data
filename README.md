@@ -2,7 +2,7 @@
 
 ## Description
 Seven facial expressions recognition data of 500 drivers cover multiple ages, multiple time periods and multiple expressions. In terms of acquisition equipment, visible and infrared binocular cameras are used. This set of driver expression recognition data can be used for driver expression recognition analysis and other tasks.
-For more details, please refer to the link: https://www.nexdata.ai/datasets/1293?source=Github
+For more details, please refer to the link: https://www.nexdata.ai/datasets/computervision/1293?source=Github
 
 
 ## Data size
